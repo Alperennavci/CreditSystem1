@@ -1,0 +1,11 @@
+C:\Users\avcia\source\repos\kredi\kredi\bin\Debug\netcoreapp2.1\kredi.deps.json
+C:\Users\avcia\source\repos\kredi\kredi\bin\Debug\netcoreapp2.1\kredi.runtimeconfig.json
+C:\Users\avcia\source\repos\kredi\kredi\bin\Debug\netcoreapp2.1\kredi.runtimeconfig.dev.json
+C:\Users\avcia\source\repos\kredi\kredi\bin\Debug\netcoreapp2.1\kredi.dll
+C:\Users\avcia\source\repos\kredi\kredi\bin\Debug\netcoreapp2.1\kredi.pdb
+C:\Users\avcia\source\repos\kredi\kredi\obj\Debug\netcoreapp2.1\kredi.csprojAssemblyReference.cache
+C:\Users\avcia\source\repos\kredi\kredi\obj\Debug\netcoreapp2.1\kredi.csproj.CoreCompileInputs.cache
+C:\Users\avcia\source\repos\kredi\kredi\obj\Debug\netcoreapp2.1\kredi.AssemblyInfoInputs.cache
+C:\Users\avcia\source\repos\kredi\kredi\obj\Debug\netcoreapp2.1\kredi.AssemblyInfo.cs
+C:\Users\avcia\source\repos\kredi\kredi\obj\Debug\netcoreapp2.1\kredi.dll
+C:\Users\avcia\source\repos\kredi\kredi\obj\Debug\netcoreapp2.1\kredi.pdb
