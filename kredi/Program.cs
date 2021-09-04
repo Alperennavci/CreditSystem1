@@ -15,6 +15,8 @@ namespace kredi
             int rakam;
             int kredi;
             string krediTipi;
+            Console.WriteLine("Hosgeldiniz..");
+            
             Console.Write("Kredi miktarı giriniz:");
             kredi = Convert.ToInt32(Console.ReadLine());
             Console.Write("\n");
