@@ -7,7 +7,9 @@ namespace kredi
         static void Main(string[] args)
         {
 
+             Hesapla();
 
+            /*
 
             int kesinti = 250;
             double krediTutari;
@@ -96,6 +98,22 @@ namespace kredi
                 Console.WriteLine("Krediniz Onaylanmamıştır. İyi Günler Dileriz.");
             }
             Console.ReadLine();
+            */
+        }
+
+        static double Hesapla()
+        {
+            int kredi;
+            Console.WriteLine("Kredi Tutari Gir.");
+            kredi = Convert.ToInt32(Console.ReadLine());
+            double faiz = 1.59;
+            int vade;
+            Console.WriteLine("Vade Giriniz");
+            vade = Convert.ToInt32(Console.ReadLine());
+            kredi = Convert.ToInt32(Console.ReadLine());
+
+            var krediTutari = kredi + (vade * faiz);
+            return krediTutari;
         }
         
     }
